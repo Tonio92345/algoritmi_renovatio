@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Ambienti virtuali
+env/
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# File di sistema Windows
+Thumbs.db
+desktop.ini
